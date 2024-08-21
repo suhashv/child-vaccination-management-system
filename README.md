@@ -58,8 +58,8 @@ Welcome to the Child Vaccination Management System!
 5. Exit
 ===============================================
 Choose an option: 1
-Enter your name: John Doe
-Enter your child's name: Jane Doe
+Enter your name: Suhash
+Enter your child's name: Arun
 Enter the desired date for the appointment (YYYY-MM-DD): 2024-09-15
-Enter the vaccine name: Hepatitis B
-Appointment for Jane Doe to receive Hepatitis B on 2024-09-15 has been successfully booked!
+Enter the vaccine name: Polio
+Appointment for Arun to receive Polio on 2024-09-15 has been successfully booked!
